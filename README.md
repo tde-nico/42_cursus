@@ -53,7 +53,7 @@
   </td><td>
     Malware
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/110_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
