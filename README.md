@@ -45,7 +45,7 @@
   </td><td>
     Malware
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/115_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -74,6 +74,14 @@
 </tr><tr>
 	<td>
 		<a href="https://github.com/tde-nico/rainfall">rainfall</a>
+  </td><td>
+    CTF
+	</td><td>
+		<img src="grades/Subscribed.svg"/>
+	</td>
+</tr><tr>
+	<td>
+		<a href="https://github.com/tde-nico/rainfall">override</a>
   </td><td>
     CTF
 	</td><td>
