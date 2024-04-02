@@ -87,5 +87,13 @@
 	</td><td>
 		<img src="grades/Subscribed.svg"/>
 	</td>
+</tr>><tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_ping">ft_ping</a>
+  </td><td>
+    Network
+	</td><td>
+		<img src="grades/120_125.svg"/>
+	</td>
 </tr></table>
 
