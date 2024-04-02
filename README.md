@@ -93,7 +93,15 @@
   </td><td>
     Network
 	</td><td>
-		<img src="grades/120_125.svg"/>
+		<img src="grades/120_100.svg"/>
+	</td>
+</tr><tr>
+	<td>
+		<a href="https://github.com/tde-nico/ft_malcolm">ft_malcolm</a>
+  </td><td>
+    Network
+	</td><td>
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr></table>
 
