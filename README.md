@@ -81,7 +81,7 @@
 	</td>
 </tr><tr>
 	<td>
-		<a href="https://github.com/tde-nico/rainfall">override</a>
+		<a href="https://github.com/tde-nico/OverRide">override</a>
   </td><td>
     CTF
 	</td><td>
