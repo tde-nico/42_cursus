@@ -1,6 +1,9 @@
 # 42_cursus
 
 <!--
+#field
+Learning
+
 #groups
 42
 
